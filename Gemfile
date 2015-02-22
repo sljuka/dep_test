@@ -27,6 +27,8 @@ gem 'rb-readline'
 
 gem 'passenger'
 
+gem 'mysql2'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
